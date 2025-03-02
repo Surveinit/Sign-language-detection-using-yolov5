@@ -17,9 +17,11 @@ To get started with the Sign Language Detection project, follow these steps:
 3.  **Create and Activate the Environment:**
   
     `conda env create -f environment.yml`
-    
+
+    `source ~/miniconda3/etc/profile.d/conda.sh`
+    OR    
     `conda activate sign-language-env` 
-    
+
     This will create a new Anaconda environment named `sign-language-env` and activate it.
     
 5.  **Install Required Libraries:**
