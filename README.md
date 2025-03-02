@@ -26,7 +26,7 @@ To get started with the Sign Language Detection project, follow these steps:
     
 5.  **Install Required Libraries:**
 
-    `pip install -r requirements.txt` 
+    `pip install -r yolov5/requirements.txt` 
     
     This will install all the necessary Python libraries required for the project.
     
